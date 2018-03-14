@@ -20,7 +20,7 @@ ms.lasthandoff: 10/18/2017
 
 有多种方法，若要开始使用 F #。  我们必须编写的每个主要的方式提供指导的多个项目。  下表可用于帮助做出决策。
 
-| (OS) | 喜欢 Visual Studio | 喜欢 Visual Studio 代码 | 首选命令行 |
+| (OS) | 喜欢 Visual Studio | 喜欢 Visual Studio Code | 首选命令行 |
 | -- |------------------------|--------------------------|-----------------------------|-------------------------|
 | Windows | [要开始使用 Visual Studio](get-started-visual-studio.md) | [VSCode 和 Ionide 入门](get-started-vscode.md) | [要开始使用.NET 核心 CLI](get-started-command-line.md) |
 | macOS | [开始使用 VS 适用于 Mac](get-started-with-visual-studio-for-mac.md) | [VSCode 和 Ionide 入门](get-started-vscode.md) | [要开始使用.NET 核心 CLI](get-started-command-line.md) |
